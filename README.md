@@ -13,6 +13,7 @@ This application was created using Flutter. It has a basic UI to test responsive
    $ flutter run   
   ```
 
+
 ## Want to Contribute?
 
 To start contributing, follow the below guidelines: 
